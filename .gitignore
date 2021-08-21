@@ -71,3 +71,6 @@ dist
 
 !libdeno/*.js
 !libdeno/**/*.js
+!libdeno/*.mjs
+!libdeno/**/*.mjs
+!libdeno/dev-kit.d.ts
