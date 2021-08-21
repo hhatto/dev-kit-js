@@ -68,3 +68,6 @@ dist
 *.ts.map
 !bundle.js
 !rollup.config.js
+
+!libdeno/*.js
+!libdeno/**/*.js
